@@ -1,9 +1,9 @@
 # Predator-Prey-Simulation
 🤓
-#why
+# why
 
 this is for school.
 
-#but why do this
+# but why do this
 
 it kinda funi
